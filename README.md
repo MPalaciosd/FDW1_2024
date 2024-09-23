@@ -1,2 +1,3 @@
-# FDW1_2024
-Repositorio de Fundamentos del hardware 2024
+# índice
+* [DETECTIVES_INFORMÁTCIOS](data/detectices_informáticos.md)
+* [PRÁCTICA 2](http://a.com)
