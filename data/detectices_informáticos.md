@@ -1,50 +1,102 @@
-# Tarea 2. Historia de Internet
+# Tarea 3. La Sociedad del Conocimiento
 
-## ARPANET
-- **Fecha de aparición**: 1969
-- **Importancia**: ARPANET fue la primera red de computadoras y precursor directo de Internet. Creada por el Departamento de Defensa de EE.UU., su objetivo inicial fue permitir la comunicación entre instituciones académicas y militares. En 1971, se realizó el primer envío de un correo electrónico a través de ARPANET.
+## Diferencia entre información y conocimiento
+- **Información**: Es el conjunto de datos procesados que tienen significado en un contexto determinado. Es una fuente de insumos para la toma de decisiones, pero carece de interpretación o juicio.
+- **Conocimiento**: Es la comprensión y uso de la información basada en la experiencia y el razonamiento. El conocimiento permite aplicar la información de manera efectiva para resolver problemas o tomar decisiones.
 
-## TCP/IP
-- **Fecha de aparición**: 1983
-- **Importancia**: El conjunto de protocolos **TCP/IP** (Transmission Control Protocol/Internet Protocol) se implementó como estándar en ARPANET, permitiendo la interconexión de redes heterogéneas. Fue desarrollado principalmente por **Robert Kahn** y **Vinton Cerf**, y es la base sobre la que aún hoy funciona Internet.
+## Domótica
+- **Definición**: La **domótica** es el conjunto de tecnologías que automatizan y controlan los sistemas del hogar, como la iluminación, climatización, seguridad, entre otros, para mejorar la comodidad, eficiencia y seguridad.
 
-## Internet
-- **Fecha de aparición**: 1983 (adopción de TCP/IP)
-- **Importancia**: Internet es la red mundial de redes que conecta millones de dispositivos en todo el mundo. Nació oficialmente cuando ARPANET adoptó TCP/IP como protocolo de comunicación estándar. Ha transformado la sociedad globalmente en áreas como la educación, los negocios y las comunicaciones.
+## Diferencia entre domótica e IoT
+- **Domótica**: Se refiere a la automatización de sistemas en entornos domésticos, normalmente controlados de forma local.
+- **IoT (Internet de las Cosas)**: Involucra la interconexión de dispositivos inteligentes a través de Internet, permitiendo su comunicación y control remoto, abarcando tanto hogares como otros entornos industriales y urbanos.
 
-## WWW y HTML
-- **Fecha de aparición**: 1991
-- **Importancia**: La **World Wide Web (WWW)** y el lenguaje de marcado **HTML (Hypertext Markup Language)** fueron creados por **Tim Berners-Lee**. La WWW permitió el acceso a la información a través de hipervínculos y navegadores web, facilitando la navegación de usuarios no técnicos y acelerando la adopción de Internet.
+## Sensores
+- **Definición**: Dispositivos que detectan cambios físicos o ambientales (como temperatura, luz, movimiento) y los convierten en señales eléctricas o digitales para el control o monitoreo de sistemas.
 
-## Wandex y Mosaic
-- **Wandex**:
-  - **Fecha de aparición**: 1993
-  - **Importancia**: Fue uno de los primeros motores de búsqueda que rastreaba las páginas de la WWW, permitiendo a los usuarios encontrar información en la creciente web.
-  
-- **Mosaic**:
-  - **Fecha de aparición**: 1993
-  - **Importancia**: Primer navegador web popular con una interfaz gráfica amigable. Desarrollado por **Marc Andreessen** en la Universidad de Illinois, fue clave en la expansión masiva de la Web al hacerla accesible a una audiencia mayor.
+## Actuadores
+- **Definición**: Dispositivos que reciben una señal de control (generalmente de un sensor o sistema de control) y actúan físicamente sobre un sistema, como mover un motor o encender una luz.
 
-## Internet 2.0
-- **Fecha de aparición**: A partir del 2004
-- **Importancia**: Conocido como la Web 2.0, esta fase de Internet se caracteriza por la interacción de los usuarios y la generación de contenido, en contraste con la Web estática anterior. Surgieron redes sociales, blogs y wikis, transformando Internet en una plataforma colaborativa y social.
+## Comunicación
+- **Definición**: En el contexto de domótica y IoT, la **comunicación** se refiere a la transferencia de datos entre dispositivos y sistemas, ya sea a través de redes cableadas o inalámbricas, permitiendo la interacción entre sensores, actuadores y controladores.
 
-## Personajes
+## Big Data
 
-### Leonard Kleinrock
-- **Importancia**: Uno de los pioneros de la teoría de redes, Kleinrock desarrolló los principios del **conmutación de paquetes**, la base de la transmisión de datos en redes como ARPANET.
+### Concepto
+- **Definición**: Se refiere al conjunto masivo de datos generados a gran velocidad, variedad y volumen, que requieren tecnologías avanzadas para su almacenamiento, análisis y procesamiento.
 
-### Robert Kahn y Vinton Cerf
-- **Importancia**: Conocidos como los "padres de Internet", desarrollaron el protocolo **TCP/IP**, permitiendo que diferentes redes pudieran comunicarse entre sí. Su trabajo es fundamental para el funcionamiento de Internet hoy en día.
+### Origen de los datos
+- Los datos en **Big Data** provienen de diversas fuentes, como sensores IoT, redes sociales, dispositivos móviles, transacciones comerciales, y registros de actividad en línea.
 
-### Bill Gates y Steve Jobs
-- **Importancia**: Ambos fueron visionarios en la computación personal y jugaron un papel crucial en la popularización de la tecnología que se interconecta con Internet. **Bill Gates** fundó Microsoft y fue clave en el desarrollo del sistema operativo **Windows**, mientras que **Steve Jobs** cofundó Apple e impulsó la creación de productos innovadores como el **iPhone**, que redefinió el acceso a Internet móvil.
+### Algoritmos de Machine Learning
+- **Ejemplos**:
+  1. Regresión Lineal
+  2. Bosques Aleatorios (Random Forest)
+  3. Redes Neuronales
+  4. Máquinas de Soporte Vectorial (SVM)
+  5. K-Means (Clustering)
+  6. Naive Bayes
+  7. K-Nearest Neighbors (KNN)
+  8. Algoritmos Genéticos
 
-### Tim Berners-Lee
-- **Importancia**: Inventor de la **World Wide Web** en 1991. Su trabajo permitió que Internet se convirtiera en una plataforma global accesible a todos, haciendo posible la navegación por páginas web enlazadas.
+### Aplicaciones (usos) del Big Data
+- **Áreas de aplicación**:
+  1. Marketing personalizado
+  2. Optimización de procesos industriales
+  3. Análisis predictivo en salud
+  4. Detección de fraudes financieros
+  5. Logística y cadena de suministro
 
-### Larry Page y Sergéi Brin
-- **Importancia**: Fundadores de **Google** en 1998, el motor de búsqueda más utilizado del mundo. Google transformó la manera en que las personas acceden a la información en Internet, y ha sido fundamental en la evolución de la economía digital.
+## Consecuencias no deseables de la sociedad del conocimiento
+- **Sobrecarga de información**: La abundancia de datos puede llevar a la desinformación o a la incapacidad de procesar información relevante.
+- **Privacidad y seguridad**: La recopilación masiva de datos pone en riesgo la privacidad de los individuos.
+- **Desigualdad**: El acceso desigual a la tecnología puede profundizar las brechas económicas y sociales.
 
-## La magia de los garajes
-- **Importancia**: Se refiere al fenómeno en Silicon Valley donde varias de las empresas tecnológicas más grandes (como Apple, Microsoft, Google y HP) comenzaron en pequeños garajes. Estos humildes inicios simbolizan la innovación, el espíritu emprendedor y el poder de las ideas disruptivas que dieron forma al mundo tecnológico actual.
+## La brecha digital
+- **Definición**: Se refiere a la disparidad en el acceso y uso de las tecnologías de la información y la comunicación (TIC) entre distintos grupos sociales, ya sea por razones económicas, geográficas o educativas.
+
+## Ciberdelincuencia
+- **Definición**: Actividades delictivas que se llevan a cabo a través de Internet, como el robo de información, ataques a redes y sistemas, estafas online, entre otros.
+
+## Malware
+
+### Tipos de Malware
+1. **Virus**: Programa malicioso que se adjunta a archivos legítimos y se replica al ejecutarlos.
+2. **Gusano**: Malware que se propaga automáticamente por redes, sin necesidad de un archivo anfitrión.
+3. **Troyano**: Software que parece legítimo pero contiene código malicioso.
+4. **Rootkit**: Herramienta que otorga acceso administrativo oculto en sistemas infectados.
+5. **WannaCry**: Ransomware que encriptó archivos de millones de usuarios en 2017, pidiendo un rescate.
+6. **Spam**: Correos electrónicos no solicitados, generalmente de contenido publicitario o malicioso.
+7. **Hoax**: Mensajes engañosos que propagan falsedades.
+8. **Keyloggers**: Software que registra las teclas presionadas por un usuario, para robar información.
+
+## Ciberacoso
+
+### Tipos de Ciberacoso
+1. **Ciberbullying**: Acoso a través de plataformas digitales, dirigido principalmente a menores.
+2. **Sexting**: Envío o recepción de contenido sexual a través de dispositivos electrónicos, que puede derivar en extorsión o humillación pública.
+
+## Técnicas
+
+1. **Phishing**: Obtención fraudulenta de información confidencial haciéndose pasar por entidades legítimas.
+2. **Smishing**: Variante del phishing, realizada a través de mensajes de texto (SMS).
+3. **Pharming**: Redirección maliciosa de sitios web para obtener datos personales.
+4. **Ataque DDOS (botnets)**: Sobrecargar un servidor o red con tráfico excesivo, utilizando redes de bots.
+5. **Hijacking**: Control remoto de un dispositivo o cuenta sin el consentimiento del propietario.
+
+## Seguridad
+
+1. **Antivirus**: Programas diseñados para detectar, bloquear y eliminar software malicioso.
+2. **Firewall**: Sistema de seguridad que controla el tráfico de red, permitiendo o bloqueando comunicaciones según políticas predefinidas.
+3. **Proxy**: Servidor intermedio que actúa en nombre del cliente para acceder a servicios de Internet, mejorando privacidad y control.
+4. **VPN (Virtual Private Network)**: Tecnología que permite una conexión segura y cifrada a una red, protegiendo la privacidad del usuario y evitando la intercepción de datos.
+
+## Bibliografía consultada
+- [Historia de Internet y sus personajes](https://es.wikipedia.org/wiki/Historia_de_Internet)
+- [Domótica e IoT: diferencias y características](https://www.xataka.com/otros/domotica-internet-de-las-cosas-que-diferencias-hay)
+- [Big Data: definición, aplicaciones y riesgos](https://www.bbva.com/es/que-es-el-big-data/)
+- [Ciberseguridad y malware](https://www.kaspersky.es/resource-center/threats)
+- Videos consultados:
+  - "The history of the Internet" en YouTube.
+  - "What is Big Data?" en Coursera.
+
